@@ -1,0 +1,11 @@
+seed 7
+SM 0.6
+A01 0.5
+datafrom mushroom.dat
+sensfile mushroom_sens(5).dat
+FIM_or_AR 2
+SIZE_threshold 2
+MST 0.05
+MCT 0.5
+MST_discount 0.2
+MCT_discount 0.4
